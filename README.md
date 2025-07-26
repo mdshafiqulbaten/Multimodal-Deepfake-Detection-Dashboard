@@ -15,22 +15,3 @@ This project integrates **computer vision**, **speech forensics**, and **NLP-bas
 ✅ Streamlit-based UI — ready for demo, research, or education  
 ✅ Extensible: plug in your own models for each modality
 
-## Project Structure
-
-multimodal-deepfake-detector/
-│
-├── app.py # Streamlit UI
-├── requirements.txt # Dependencies
-├── README.md # Project overview
-│
-├── models/
-│ ├── face_detector.py # Frame-by-frame CNN detection
-│ ├── audio_detector.py # (Coming soon)
-│ └── text_detector.py # (Coming soon)
-│
-├── utils/
-│ ├── fusion.py # Aggregates model scores
-│ └── preprocess.py # Preprocessing functions
-│
-├── samples/ # Test videos/audio/text
-├── assets/ # Banners, icons
