@@ -3,8 +3,6 @@
 
 > A research-aligned tool for detecting deepfakes using **video**, **audio**, and **textual** analysis — all in one intuitive Streamlit dashboard.
 
-![Banner](assets/banner.png)
-
 ## Overview
 
 This project integrates **computer vision**, **speech forensics**, and **NLP-based semantic analysis** to assess whether a given input is a deepfake. It is inspired by current research in **multimodal deepfake detection** and aligns with ongoing academic work on **neurosymbolic AI frameworks**.
