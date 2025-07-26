@@ -1,0 +1,10 @@
+streamlit
+opencv-python
+numpy
+librosa
+transformers
+torch
+scikit-learn
+moviepy
+pydub
+matplotlib
